@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Vsoon0.4.git/static/css/main.7b70f4a3.css",
+    "main.js": "/Vsoon0.4.git/static/js/main.71354c33.js",
+    "static/js/787.a8a6735b.chunk.js": "/Vsoon0.4.git/static/js/787.a8a6735b.chunk.js",
+    "static/media/logo.png": "/Vsoon0.4.git/static/media/logo.782525c56c4f7e7682fe.png",
+    "index.html": "/Vsoon0.4.git/index.html",
+    "main.7b70f4a3.css.map": "/Vsoon0.4.git/static/css/main.7b70f4a3.css.map",
+    "main.71354c33.js.map": "/Vsoon0.4.git/static/js/main.71354c33.js.map",
+    "787.a8a6735b.chunk.js.map": "/Vsoon0.4.git/static/js/787.a8a6735b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b70f4a3.css",
+    "static/js/main.71354c33.js"
+  ]
+}
